@@ -1,0 +1,747 @@
+{
+  "source_site": "https://cleanairme.com/",
+  "retrieved_at": "2026-10-09T23:46:43.159777+00:00",
+  "asset_policy": "Authentic image files linked by the current public website. No product design generation or visual recreation. AVIF originals blocked direct origin retrieval, so the public image URLs already used by the website supplied cached equivalents; their original URLs are retained.",
+  "logo": {
+    "alt": "Clean Air Wellness & Hygiene",
+    "original_url": "https://api.cleanairme.com/wp-content/uploads/2026/07/logo-cleanair.avif",
+    "display_url": "https://cleanairme.com/_next/image?url=https%3A%2F%2Fapi.cleanairme.com%2Fwp-content%2Fuploads%2F2026%2F07%2Flogo-cleanair.avif&w=640&q=75",
+    "filename": "cleanair-logo.avif",
+    "kind": "logo",
+    "source_page": "https://cleanairme.com/",
+    "downloaded": true,
+    "download_url": "https://cleanairme.com/_next/image?url=https%3A%2F%2Fapi.cleanairme.com%2Fwp-content%2Fuploads%2F2026%2F07%2Flogo-cleanair.avif&w=640&q=75",
+    "downloaded_from_display_proxy": true,
+    "bytes": 21233,
+    "content_type": "image/avif",
+    "width": 640,
+    "height": 281,
+    "image_format": "AVIF",
+    "transparency": true,
+    "png_equivalent_filename": "cleanair-logo.png",
+    "png_note": "Format-only conversion from the downloaded AVIF; no visual alterations."
+  },
+  "products": [
+    {
+      "alt": "ductFIT-Ceiling",
+      "original_url": "https://api.cleanairme.com/wp-content/uploads/2026/07/ceiling-removebg-preview.png?v=1785826401000",
+      "display_url": "https://cleanairme.com/_next/image?url=https%3A%2F%2Fapi.cleanairme.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fceiling-removebg-preview.png%3Fv%3D1785826401000&w=3840&q=75",
+      "filename": "ductfit-ceiling.png",
+      "kind": "product",
+      "product_slug": "ductfit-ceiling",
+      "source_page": "https://cleanairme.com/products/ductfit-ceiling",
+      "downloaded": true,
+      "bytes": 102760,
+      "content_type": "image/png",
+      "width": 500,
+      "height": 500,
+      "image_format": "PNG",
+      "transparency": true,
+      "slug": "ductfit-ceiling",
+      "page_title": "ductFIT-Ceiling | Air Purification | Clean Air Wellness & Hygiene",
+      "facts": {
+        "name": "ductFIT Ceiling",
+        "category": "Air purification",
+        "installation": "Ceiling or wall mounted",
+        "airflow": "Built-in fan; operates independently of HVAC ductwork",
+        "application": "Indoor spaces without air ducts"
+      },
+      "source_reported_specifications": [
+        {
+          "label": "Electrical",
+          "value": "100/220 V"
+        },
+        {
+          "label": "Power",
+          "value": "MAX 120 W"
+        },
+        {
+          "label": "Air Volume",
+          "value": "Depends on the FCU"
+        },
+        {
+          "label": "Noise",
+          "value": "< 48dB"
+        },
+        {
+          "label": "Weight",
+          "value": "22 Kg"
+        },
+        {
+          "label": "CADR",
+          "value": "800m3/h"
+        },
+        {
+          "label": "Dimensions",
+          "value": "63cm L x 95cm W x 27cm H"
+        }
+      ],
+      "specification_status": "Extracted from the public product page; not independently tested or datasheet-verified.",
+      "review_before_publishing": [
+        "Area sizing is site-reported and must be verified for the actual space and model. The independent fan description conflicts with the generic Air Volume: Depends on the FCU field."
+      ]
+    },
+    {
+      "alt": "ductFIT-Cloud",
+      "original_url": "https://api.cleanairme.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-08-07-at-17.50.01-e1786524853290.jpeg?v=1786524768000",
+      "display_url": "https://cleanairme.com/_next/image?url=https%3A%2F%2Fapi.cleanairme.com%2Fwp-content%2Fuploads%2F2026%2F07%2FWhatsApp-Image-2026-08-07-at-17.50.01-e1786524853290.jpeg%3Fv%3D1786524768000&w=3840&q=75",
+      "filename": "ductfit-cloud.jpeg",
+      "kind": "product",
+      "product_slug": "ductfit-cloud",
+      "source_page": "https://cleanairme.com/products/ductfit-cloud",
+      "downloaded": true,
+      "bytes": 50657,
+      "content_type": "image/jpeg",
+      "width": 763,
+      "height": 810,
+      "image_format": "JPEG",
+      "transparency": false,
+      "slug": "ductfit-cloud",
+      "page_title": "ductFIT-Cloud | Air Purifier | Clean Air Wellness & Hygiene",
+      "facts": {
+        "name": "ductFIT Cloud",
+        "category": "Air purification",
+        "installation": "Ceiling mounted; fits standard grid ceiling tiles",
+        "airflow": "Built-in fan; operates independently of HVAC ductwork",
+        "application": "Indoor spaces without air ducts"
+      },
+      "source_reported_specifications": [
+        {
+          "label": "Electrical",
+          "value": "100/220 V"
+        },
+        {
+          "label": "Power",
+          "value": "MAX 80 W"
+        },
+        {
+          "label": "Air Volume",
+          "value": "Depends on the FCU"
+        },
+        {
+          "label": "Noise",
+          "value": "< 30dB"
+        },
+        {
+          "label": "Weight",
+          "value": "8 Kg"
+        },
+        {
+          "label": "CADR",
+          "value": "300m3/h"
+        },
+        {
+          "label": "Dimensions",
+          "value": "60cm L x 60cm W x 18cm H"
+        }
+      ],
+      "specification_status": "Extracted from the public product page; not independently tested or datasheet-verified.",
+      "review_before_publishing": [
+        "The independent fan description conflicts with the generic Air Volume: Depends on the FCU field. Confirm actual capacity and sizing."
+      ]
+    },
+    {
+      "alt": "ductFIT-Kleansense IAQ Sensor",
+      "original_url": "https://api.cleanairme.com/wp-content/uploads/2026/07/product-ductfit-kleansense.avif?v=1784017001000",
+      "display_url": "https://cleanairme.com/_next/image?url=https%3A%2F%2Fapi.cleanairme.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fproduct-ductfit-kleansense.avif%3Fv%3D1784017001000&w=3840&q=75",
+      "filename": "ductfit-kleansense-iaq-sensor.avif",
+      "kind": "product",
+      "product_slug": "ductfit-kleansense-iaq-sensor",
+      "source_page": "https://cleanairme.com/products/ductfit-kleansense-iaq-sensor",
+      "downloaded": true,
+      "download_url": "https://cleanairme.com/_next/image?url=https%3A%2F%2Fapi.cleanairme.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fproduct-ductfit-kleansense.avif%3Fv%3D1784017001000&w=3840&q=75",
+      "downloaded_from_display_proxy": true,
+      "bytes": 15475,
+      "content_type": "image/avif",
+      "width": 640,
+      "height": 640,
+      "image_format": "AVIF",
+      "transparency": true,
+      "png_equivalent_filename": "ductfit-kleansense-iaq-sensor.png",
+      "png_note": "Format-only conversion from the downloaded AVIF; no visual alterations.",
+      "slug": "ductfit-kleansense-iaq-sensor",
+      "page_title": "KleanSense IAQ Sensor | IAQ Monitoring | Clean Air Wellness & Hygiene",
+      "facts": {
+        "name": "KleanSense IAQ Sensor",
+        "category": "Indoor air quality monitoring",
+        "installation": "Ceiling or wall mounted",
+        "monitoring_parameters": [
+          "PM2.5",
+          "TVOC",
+          "CO2",
+          "CO",
+          "O3",
+          "HCHO",
+          "Temperature",
+          "Humidity"
+        ],
+        "connectivity": "Wi-Fi included; Ethernet and Modbus are optional",
+        "reporting": "CMS dashboard with hourly, daily, weekly and monthly views",
+        "subscription": "Annual software subscription is required according to the product page"
+      },
+      "source_reported_specifications": [
+        {
+          "label": "Netowrk",
+          "value": "WiFi Included, Ethernet optional"
+        },
+        {
+          "label": "Modbus",
+          "value": "Optional"
+        },
+        {
+          "label": "Voltage",
+          "value": "100-240V 50/60 Hz"
+        },
+        {
+          "label": "Working Temperature",
+          "value": "0~70 ºC"
+        },
+        {
+          "label": "Weight",
+          "value": "320g"
+        },
+        {
+          "label": "Dimensions",
+          "value": "135mmÅ~135mmÅ~40mm"
+        }
+      ],
+      "specification_status": "Extracted from the public product page; not independently tested or datasheet-verified.",
+      "review_before_publishing": [
+        "The source dimensions contain a broken encoding: 135mmÅ~135mmÅ~40mm. Do not publish those characters. Confirm the dimensions against a datasheet. This is a sensor, not an air purifier."
+      ]
+    },
+    {
+      "alt": "ductFIT® — Lampshade",
+      "original_url": "https://api.cleanairme.com/wp-content/uploads/2026/07/product-ductfit-lampshade.avif?v=1784016913000",
+      "display_url": "https://cleanairme.com/_next/image?url=https%3A%2F%2Fapi.cleanairme.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fproduct-ductfit-lampshade.avif%3Fv%3D1784016913000&w=3840&q=75",
+      "filename": "ductfit-lampshade.avif",
+      "kind": "product",
+      "product_slug": "ductfit-lampshade",
+      "source_page": "https://cleanairme.com/products/ductfit-lampshade",
+      "downloaded": true,
+      "download_url": "https://cleanairme.com/_next/image?url=https%3A%2F%2Fapi.cleanairme.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fproduct-ductfit-lampshade.avif%3Fv%3D1784016913000&w=3840&q=75",
+      "downloaded_from_display_proxy": true,
+      "bytes": 6417,
+      "content_type": "image/avif",
+      "width": 500,
+      "height": 500,
+      "image_format": "AVIF",
+      "transparency": true,
+      "png_equivalent_filename": "ductfit-lampshade.png",
+      "png_note": "Format-only conversion from the downloaded AVIF; no visual alterations.",
+      "slug": "ductfit-lampshade",
+      "page_title": "ductFIT-Lampshade | Air Purifier | Clean Air Wellness & Hygiene",
+      "facts": {
+        "name": "ductFIT Lampshade",
+        "category": "Air purification",
+        "design": "Lampshade-style enclosure",
+        "application": "Interior spaces where a decorative form is preferred"
+      },
+      "source_reported_specifications": [],
+      "specification_status": "Extracted from the public product page; not independently tested or datasheet-verified.",
+      "review_before_publishing": [
+        "No detailed technical specification table is present. Avoid inventing electrical, filtration, noise or installation specifications."
+      ]
+    },
+    {
+      "alt": "ductFIT-M",
+      "original_url": "https://api.cleanairme.com/wp-content/uploads/2026/07/Untitled_design__8_-removebg-preview-1.png?v=1785826778000",
+      "display_url": "https://cleanairme.com/_next/image?url=https%3A%2F%2Fapi.cleanairme.com%2Fwp-content%2Fuploads%2F2026%2F07%2FUntitled_design__8_-removebg-preview-1.png%3Fv%3D1785826778000&w=3840&q=75",
+      "filename": "ductfit-m.png",
+      "kind": "product",
+      "product_slug": "ductfit-m",
+      "source_page": "https://cleanairme.com/products/ductfit-m",
+      "downloaded": true,
+      "bytes": 78971,
+      "content_type": "image/png",
+      "width": 500,
+      "height": 500,
+      "image_format": "PNG",
+      "transparency": true,
+      "slug": "ductfit-m",
+      "page_title": "ductFIT-M: ductFIT® air purification | Clean Air Wellness & Hygiene",
+      "facts": {
+        "name": "ductFIT M",
+        "category": "Air purification",
+        "installation": "Retrofit installation in existing HVAC grilles, ducts or plenums",
+        "application": "Transport environments including buses, trains and subways"
+      },
+      "source_reported_specifications": [
+        {
+          "label": "Electrical",
+          "value": "100/220 V"
+        },
+        {
+          "label": "Power",
+          "value": "MAX 30 to 40 W"
+        },
+        {
+          "label": "Air Volume",
+          "value": "Depends on the FCU"
+        },
+        {
+          "label": "Noise",
+          "value": "Depends on the FCU"
+        },
+        {
+          "label": "Weight",
+          "value": "1 Kg"
+        },
+        {
+          "label": "Length inside duct",
+          "value": "20 to 45cm"
+        }
+      ],
+      "specification_status": "Extracted from the public product page; not independently tested or datasheet-verified.",
+      "review_before_publishing": [
+        "Confirm transport retrofit compatibility and the exact selected variant before giving sizing or electrical specifications."
+      ]
+    },
+    {
+      "alt": "ductFIT-Mobile",
+      "original_url": "https://api.cleanairme.com/wp-content/uploads/2026/07/product-ductfit-mobile.avif?v=1783949760000",
+      "display_url": "https://cleanairme.com/_next/image?url=https%3A%2F%2Fapi.cleanairme.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fproduct-ductfit-mobile.avif%3Fv%3D1783949760000&w=3840&q=75",
+      "filename": "ductfit-mobile.avif",
+      "kind": "product",
+      "product_slug": "ductfit-mobile",
+      "source_page": "https://cleanairme.com/products/ductfit-mobile",
+      "downloaded": true,
+      "download_url": "https://cleanairme.com/_next/image?url=https%3A%2F%2Fapi.cleanairme.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fproduct-ductfit-mobile.avif%3Fv%3D1783949760000&w=3840&q=75",
+      "downloaded_from_display_proxy": true,
+      "bytes": 4079,
+      "content_type": "image/avif",
+      "width": 500,
+      "height": 500,
+      "image_format": "AVIF",
+      "transparency": true,
+      "png_equivalent_filename": "ductfit-mobile.png",
+      "png_note": "Format-only conversion from the downloaded AVIF; no visual alterations.",
+      "slug": "ductfit-mobile",
+      "page_title": "ductFIT-Mobile | Portable Air Purifier | Clean Air Wellness & Hygiene",
+      "facts": {
+        "name": "ductFIT Mobile",
+        "category": "Standalone air purification",
+        "installation": "Movable standalone unit",
+        "airflow": "Built-in fan; operates independently of HVAC ductwork",
+        "display": "PM2.5 display with operation and speed indicators",
+        "controls": "Silent mode is listed on the product page",
+        "application": "Indoor spaces without air ducts"
+      },
+      "source_reported_specifications": [
+        {
+          "label": "Electrical",
+          "value": "100/220 V"
+        },
+        {
+          "label": "Power",
+          "value": "MAX 50 W"
+        },
+        {
+          "label": "Air Volume",
+          "value": "500m3/h"
+        },
+        {
+          "label": "Noise",
+          "value": "30-65dB"
+        },
+        {
+          "label": "Weight",
+          "value": "12 Kg"
+        },
+        {
+          "label": "Dimensions",
+          "value": "31cm W x 62cm H x 31cm D"
+        }
+      ],
+      "specification_status": "Extracted from the public product page; not independently tested or datasheet-verified.",
+      "review_before_publishing": [
+        "Reported area capacity and measured air changes depend on the actual space and operating conditions; confirm sizing before making a coverage promise."
+      ]
+    },
+    {
+      "alt": "ductFIT-S",
+      "original_url": "https://api.cleanairme.com/wp-content/uploads/2026/07/Untitled_design__7_-removebg-preview.png?v=1785826415000",
+      "display_url": "https://cleanairme.com/_next/image?url=https%3A%2F%2Fapi.cleanairme.com%2Fwp-content%2Fuploads%2F2026%2F07%2FUntitled_design__7_-removebg-preview.png%3Fv%3D1785826415000&w=3840&q=75",
+      "filename": "ductfit-s.png",
+      "kind": "product",
+      "product_slug": "ductfit-s",
+      "source_page": "https://cleanairme.com/products/ductfit-s",
+      "downloaded": true,
+      "bytes": 110056,
+      "content_type": "image/png",
+      "width": 500,
+      "height": 500,
+      "image_format": "PNG",
+      "transparency": true,
+      "slug": "ductfit-s",
+      "page_title": "ductFIT-S / ductFIT-CAR Air Purifier | Clean Air Wellness & Hygiene",
+      "facts": {
+        "name": "ductFIT S",
+        "category": "Portable air purification",
+        "application": "Cars and small personal spaces",
+        "connection": "Micro USB",
+        "weight": "290 g"
+      },
+      "source_reported_specifications": [
+        {
+          "label": "Electrical",
+          "value": "5 V"
+        },
+        {
+          "label": "Power",
+          "value": "5A"
+        },
+        {
+          "label": "Connection",
+          "value": "Micro USB"
+        },
+        {
+          "label": "Noise",
+          "value": "< 48dB"
+        },
+        {
+          "label": "Weight",
+          "value": "290g"
+        },
+        {
+          "label": "Dimensions",
+          "value": "6.8cm x 16.8 (Diameter x height)"
+        }
+      ],
+      "specification_status": "Extracted from the public product page; not independently tested or datasheet-verified.",
+      "review_before_publishing": [
+        "Coverage is inconsistent: overview says 10 m² while the hero badge says 10 m³.",
+        "The source lists Power: 5A, which is a current unit rather than a power unit; omit until confirmed.",
+        "The Key features section says Ceiling or wall mounted, contradicting the portable car product description. Do not reuse that copied feature."
+      ]
+    },
+    {
+      "alt": "ductFIT-Vent",
+      "original_url": "https://api.cleanairme.com/wp-content/uploads/2026/07/product-ductfit-vent.avif?v=1784016617000",
+      "display_url": "https://cleanairme.com/_next/image?url=https%3A%2F%2Fapi.cleanairme.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fproduct-ductfit-vent.avif%3Fv%3D1784016617000&w=3840&q=75",
+      "filename": "ductfit-vent.avif",
+      "kind": "product",
+      "product_slug": "ductfit-vent",
+      "source_page": "https://cleanairme.com/products/ductfit-vent",
+      "downloaded": true,
+      "download_url": "https://cleanairme.com/_next/image?url=https%3A%2F%2Fapi.cleanairme.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fproduct-ductfit-vent.avif%3Fv%3D1784016617000&w=3840&q=75",
+      "downloaded_from_display_proxy": true,
+      "bytes": 9690,
+      "content_type": "image/avif",
+      "width": 500,
+      "height": 500,
+      "image_format": "AVIF",
+      "transparency": true,
+      "png_equivalent_filename": "ductfit-vent.png",
+      "png_note": "Format-only conversion from the downloaded AVIF; no visual alterations.",
+      "slug": "ductfit-vent",
+      "page_title": "ductFIT-Vent | HVAC Air Purification | Clean Air Wellness & Hygiene",
+      "facts": {
+        "name": "ductFIT Vent",
+        "category": "HVAC air purification",
+        "installation": "Inside an HVAC duct or plenum",
+        "variants": "Product copy refers to ductFIT 100 and 200 variants",
+        "application": "Buildings with existing HVAC duct systems"
+      },
+      "source_reported_specifications": [
+        {
+          "label": "Electrical",
+          "value": "100/220 V"
+        },
+        {
+          "label": "Power",
+          "value": "MAX 30 to 40 W"
+        },
+        {
+          "label": "Air Volume",
+          "value": "Depends on the FCU"
+        },
+        {
+          "label": "Noise",
+          "value": "Depends on the FCU"
+        },
+        {
+          "label": "Weight",
+          "value": "2.5 Kg"
+        },
+        {
+          "label": "Dimensions",
+          "value": "29cm L x 18cm W x 31cm D, Length inside duct: 24cm"
+        },
+        {
+          "label": "Dimensions",
+          "value": "29cm L x 18cm W x 45cm D, Length inside duct: 38cm"
+        }
+      ],
+      "specification_status": "Extracted from the public product page; not independently tested or datasheet-verified.",
+      "review_before_publishing": [
+        "The table has two Dimensions entries corresponding to different variants without variant labels. Do not combine them into one specification."
+      ]
+    },
+    {
+      "alt": "ductFIT-Wall",
+      "original_url": "https://api.cleanairme.com/wp-content/uploads/2026/07/product-ductfit-wall.avif?v=1784016833000",
+      "display_url": "https://cleanairme.com/_next/image?url=https%3A%2F%2Fapi.cleanairme.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fproduct-ductfit-wall.avif%3Fv%3D1784016833000&w=3840&q=75",
+      "filename": "ductfit-wall.avif",
+      "kind": "product",
+      "product_slug": "ductfit-wall",
+      "source_page": "https://cleanairme.com/products/ductfit-wall",
+      "downloaded": true,
+      "download_url": "https://cleanairme.com/_next/image?url=https%3A%2F%2Fapi.cleanairme.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fproduct-ductfit-wall.avif%3Fv%3D1784016833000&w=3840&q=75",
+      "downloaded_from_display_proxy": true,
+      "bytes": 4597,
+      "content_type": "image/avif",
+      "width": 500,
+      "height": 500,
+      "image_format": "AVIF",
+      "transparency": true,
+      "png_equivalent_filename": "ductfit-wall.png",
+      "png_note": "Format-only conversion from the downloaded AVIF; no visual alterations.",
+      "slug": "ductfit-wall",
+      "page_title": "ductFIT-Wall | Wall-Mounted Air Purifier | Clean Air Wellness & Hygiene",
+      "facts": {
+        "name": "ductFIT Wall",
+        "category": "Air purification",
+        "installation": "Wall mounted",
+        "airflow": "Built-in fan; operates independently of HVAC ductwork",
+        "application": "Indoor spaces without air ducts"
+      },
+      "source_reported_specifications": [
+        {
+          "label": "Electrical",
+          "value": "100/220 V"
+        },
+        {
+          "label": "Power",
+          "value": "MAX 80 W"
+        },
+        {
+          "label": "Air Volume",
+          "value": "Depends on the FCU"
+        },
+        {
+          "label": "Noise",
+          "value": "< 30dB"
+        },
+        {
+          "label": "Weight",
+          "value": "5 Kg"
+        },
+        {
+          "label": "CADR",
+          "value": "200m3/h"
+        },
+        {
+          "label": "Dimensions",
+          "value": "30cm H x 30cm W x 11cm D"
+        },
+        {
+          "label": "Length inside duct",
+          "value": "20 to 45cm"
+        }
+      ],
+      "specification_status": "Extracted from the public product page; not independently tested or datasheet-verified.",
+      "review_before_publishing": [
+        "The Length inside duct field is inconsistent with the wall-mounted independent product description; omit until confirmed. The generic Air Volume: Depends on the FCU field also needs confirmation."
+      ]
+    }
+  ],
+  "interior_assets": [
+    {
+      "alt": "",
+      "original_url": "https://cleanairme.com/office-space.webp",
+      "display_url": "https://cleanairme.com/_next/image?url=%2Foffice-space.webp&w=3840&q=75",
+      "filename": "office-interior.webp",
+      "kind": "interior",
+      "suggested_alt": "Modern office interior",
+      "source_page": "https://cleanairme.com/",
+      "downloaded": true,
+      "bytes": 115486,
+      "content_type": "image/webp",
+      "width": 1189,
+      "height": 896,
+      "image_format": "WEBP",
+      "transparency": false,
+      "usage_note": "Site-supplied decorative marketing imagery with illustrative purification graphics; not verified installation photography. Do not use as a case-study, testimonial or measured result.",
+      "recommended_for_demo": false
+    },
+    {
+      "alt": "",
+      "original_url": "https://cleanairme.com/family-living-room.webp",
+      "display_url": "https://cleanairme.com/_next/image?url=%2Ffamily-living-room.webp&w=3840&q=75",
+      "filename": "family-living-room.webp",
+      "kind": "interior",
+      "suggested_alt": "Family in a bright living room",
+      "source_page": "https://cleanairme.com/",
+      "downloaded": true,
+      "bytes": 153100,
+      "content_type": "image/webp",
+      "width": 1408,
+      "height": 768,
+      "image_format": "WEBP",
+      "transparency": false,
+      "usage_note": "Site-supplied decorative marketing imagery with illustrative purification graphics; not verified installation photography. Do not use as a case-study, testimonial or measured result.",
+      "recommended_for_demo": false
+    },
+    {
+      "alt": "",
+      "original_url": "https://cleanairme.com/bedroom-night.webp",
+      "display_url": "https://cleanairme.com/_next/image?url=%2Fbedroom-night.webp&w=3840&q=75",
+      "filename": "bedroom-night.webp",
+      "kind": "interior",
+      "suggested_alt": "Bedroom interior",
+      "source_page": "https://cleanairme.com/",
+      "downloaded": true,
+      "bytes": 62972,
+      "content_type": "image/webp",
+      "width": 1408,
+      "height": 768,
+      "image_format": "WEBP",
+      "transparency": false,
+      "usage_note": "Site-supplied decorative marketing imagery with illustrative purification graphics; not verified installation photography. Do not use as a case-study, testimonial or measured result.",
+      "recommended_for_demo": false
+    },
+    {
+      "alt": "",
+      "original_url": "https://cleanairme.com/clean-air-shelf.webp",
+      "display_url": "https://cleanairme.com/_next/image?url=%2Fclean-air-shelf.webp&w=3840&q=75",
+      "filename": "clean-air-shelf.webp",
+      "kind": "interior",
+      "suggested_alt": "Air purification device in an interior",
+      "source_page": "https://cleanairme.com/",
+      "downloaded": true,
+      "bytes": 114576,
+      "content_type": "image/webp",
+      "width": 1024,
+      "height": 1024,
+      "image_format": "WEBP",
+      "transparency": false,
+      "usage_note": "Site-supplied decorative marketing imagery with illustrative purification graphics; not verified installation photography. Do not use as a case-study, testimonial or measured result.",
+      "recommended_for_demo": false
+    },
+    {
+      "alt": "Hotels & Events, after",
+      "original_url": "https://cleanairme.com/newimages/Hotel2.webp",
+      "display_url": "https://cleanairme.com/_next/image?url=%2Fnewimages%2FHotel2.webp&w=3840&q=75",
+      "filename": "hotel-sector.webp",
+      "kind": "interior",
+      "suggested_alt": "Hotel interior",
+      "source_page": "https://cleanairme.com/",
+      "downloaded": true,
+      "bytes": 94876,
+      "content_type": "image/webp",
+      "width": 634,
+      "height": 396,
+      "image_format": "WEBP",
+      "transparency": false,
+      "usage_note": "Site-supplied decorative marketing imagery with illustrative purification graphics; not verified installation photography. Do not use as a case-study, testimonial or measured result.",
+      "recommended_for_demo": false
+    },
+    {
+      "alt": "Offices & Retails, after",
+      "original_url": "https://cleanairme.com/newimages/1n.webp",
+      "display_url": "https://cleanairme.com/_next/image?url=%2Fnewimages%2F1n.webp&w=3840&q=75",
+      "filename": "office-sector.webp",
+      "kind": "interior",
+      "suggested_alt": "Office and retail interior",
+      "source_page": "https://cleanairme.com/",
+      "downloaded": true,
+      "bytes": 121178,
+      "content_type": "image/webp",
+      "width": 634,
+      "height": 396,
+      "image_format": "WEBP",
+      "transparency": false,
+      "usage_note": "Site-supplied decorative marketing imagery with illustrative purification graphics; not verified installation photography. Do not use as a case-study, testimonial or measured result.",
+      "recommended_for_demo": false
+    },
+    {
+      "alt": "Sports & Restaurants, after",
+      "original_url": "https://cleanairme.com/newimages/Reataurant2.webp",
+      "display_url": "https://cleanairme.com/_next/image?url=%2Fnewimages%2FReataurant2.webp&w=3840&q=75",
+      "filename": "restaurant-sector.webp",
+      "kind": "interior",
+      "suggested_alt": "Restaurant interior",
+      "source_page": "https://cleanairme.com/",
+      "downloaded": true,
+      "bytes": 160052,
+      "content_type": "image/webp",
+      "width": 634,
+      "height": 396,
+      "image_format": "WEBP",
+      "transparency": false,
+      "usage_note": "Site-supplied decorative marketing imagery with illustrative purification graphics; not verified installation photography. Do not use as a case-study, testimonial or measured result.",
+      "recommended_for_demo": false
+    },
+    {
+      "alt": "Residences & Villas, after",
+      "original_url": "https://cleanairme.com/newimages/villa.webp",
+      "display_url": "https://cleanairme.com/_next/image?url=%2Fnewimages%2Fvilla.webp&w=3840&q=75",
+      "filename": "villa-sector.webp",
+      "kind": "interior",
+      "suggested_alt": "Residential villa interior",
+      "source_page": "https://cleanairme.com/",
+      "downloaded": true,
+      "bytes": 60596,
+      "content_type": "image/webp",
+      "width": 634,
+      "height": 396,
+      "image_format": "WEBP",
+      "transparency": false,
+      "usage_note": "Site-supplied decorative marketing imagery with illustrative purification graphics; not verified installation photography. Do not use as a case-study, testimonial or measured result.",
+      "recommended_for_demo": false
+    },
+    {
+      "alt": "Restrooms & Cinemas, after",
+      "original_url": "https://cleanairme.com/newimages/Restroom.webp",
+      "display_url": "https://cleanairme.com/_next/image?url=%2Fnewimages%2FRestroom.webp&w=3840&q=75",
+      "filename": "restroom-sector.webp",
+      "kind": "interior",
+      "suggested_alt": "Restroom interior",
+      "source_page": "https://cleanairme.com/",
+      "downloaded": true,
+      "bytes": 106606,
+      "content_type": "image/webp",
+      "width": 634,
+      "height": 396,
+      "image_format": "WEBP",
+      "transparency": false,
+      "usage_note": "Site-supplied decorative marketing imagery with illustrative purification graphics; not verified installation photography. Do not use as a case-study, testimonial or measured result.",
+      "recommended_for_demo": false
+    }
+  ],
+  "contact_details_from_current_site": {
+    "email": "info@cleanairme.com",
+    "phone": "+971504616073",
+    "whatsapp": "+971501169833",
+    "sales": "+971501169833",
+    "location": "Dubai, United Arab Emirates",
+    "source_url": "https://cleanairme.com/"
+  },
+  "content_issues_to_correct": [
+    "Homepage About, Process and Reviews sections retain unrelated landscaping content.",
+    "Review avatars reference a random avatar service and do not establish real customer identities.",
+    "Do not reproduce unverified project counts, review counts, star ratings or claimed institutional endorsements as independently confirmed facts.",
+    "Avoid absolute purification, infection prevention, chemical-free or no-by-product claims without applicable test evidence and product documentation.",
+    "No current product prices were supplied on the reviewed public product pages."
+  ],
+  "image_quality_report": {
+    "product_cutouts": "Ceiling, M, S, Mobile, Vent, Wall and Lampshade are 500×500. KleanSense is 640×640. These are appropriate for compact cards, but can appear soft when enlarged beyond native resolution.",
+    "cloud": "763×810 JPEG with an opaque background.",
+    "logo": "640×281 transparent AVIF, with a PNG format-only equivalent. Blue/gray source artwork.",
+    "interiors": "Hero images range from 1024 to 1408 pixels wide; sector images are 634×396. Several have obvious stylized air ribbons and a star watermark, so they are decorative campaign imagery.",
+    "recommendation": "Use the authentic logo and product cutouts. Omit the current site interior illustrations from the demo because watermarks, purification rays and mismatched generic devices weaken credibility."
+  },
+  "recommended_asset_filenames": [
+    "cleanair-logo.png",
+    "ductfit-ceiling.png",
+    "ductfit-cloud.jpeg",
+    "ductfit-kleansense-iaq-sensor.png",
+    "ductfit-lampshade.png",
+    "ductfit-m.png",
+    "ductfit-mobile.png",
+    "ductfit-s.png",
+    "ductfit-vent.png",
+    "ductfit-wall.png"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "sources": [
+    {
+      "name": "_Asteco-IAQ _ CleanAir indoors(2).pdf",
+      "sha256": "19b8defa380b07e90752d8b827b71f54eba5d9989be83d5cdfdeec677980e1d2",
+      "provided_by": "user"
+    },
+    {
+      "name": "WhatsApp Image 2026-10-05 at 12.01.44 PM(2).jpeg",
+      "sha256": "c8b7e30cb17d57d803cf4db48b15b5e6fed9215df96291a15ddd665727563583",
+      "provided_by": "user"
+    }
+  ],
+  "pdf_pages_used": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    17,
+    19
+  ],
+  "content_scope": [
+    "Photocatalytic oxidation process explanation",
+    "KleanSense readings, Wi-Fi, live dashboard, historical trends and dimensions",
+    "Vent 100 model-specific dimensions, insertion length, power and indicator",
+    "Analyze, create, execute approach",
+    "Installation, monitoring and third-party assessment scope"
+  ],
+  "image_scope": "Natural oxidation analogy; the website diagram describes the indoor UV/catalyst process from the brochure.",
+  "technical_reference_scope": "Vent 100 values remain explicitly labelled as Vent 100 rather than applied across the Vent range.",
+  "excluded_from_general_marketing": [
+    "Proposal-specific prices and schedules",
+    "Universal health/safety guarantees",
+    "Generic efficacy percentages",
+    "Unverified current certification or regulatory approval claims"
+  ],
+  "attachment_publication": "Raw attachments are not included in the deployed static files.",
+  "additional_phone": {
+    "value": "+971501046233",
+    "source": "User annotation",
+    "use": "Call link and Organization contact point; existing WhatsApp destination preserved"
+  },
+  "footer_background_opacity": 0.65
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cleanair-sales-demo.rockyhero4.chatgpt.site/sitemap.xml
