@@ -5,7 +5,7 @@ Latin script (ductFIT, KleanSense, PM2.5) as they appear on the products.
 Have a native Arabic speaker on the team read these once before posting.
 """
 
-CTA_AR = "\n\n📩 راسلونا أو تواصلوا عبر واتساب \u2066+971 50 116 9833\u2069 أو البريد info@cleanairme.com\n🌐 www.cleanairme.com"
+CTA_AR = "\n\n📩 راسلونا أو تواصلوا عبر واتساب \u2066+971\u00a050\u00a0116\u00a09833\u2069 أو البريد info@cleanairme.com\n🌐 www.cleanairme.com"
 
 TAGS_AR = "#دبي #الإمارات #جودة_الهواء #تنقية_الهواء #هواء_نقي"
 

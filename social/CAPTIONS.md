@@ -28,7 +28,7 @@ Over the next 30 days we'll show you what's in indoor air, how to measure it, an
 
 تابعونا خلال الثلاثين يوماً القادمة لتتعرفوا على ما يحتويه الهواء الداخلي وكيف تختارون الحل المناسب لمساحتكم 👇
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -57,7 +57,7 @@ Question for you: when did you last check the air quality in your office or home
 
 متى كانت آخر مرة قستم فيها جودة الهواء في مكتبكم أو منزلكم؟ شاركونا في التعليقات 👇
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -93,7 +93,7 @@ HR and facility managers: book a site consultation and we'll walk your floor wit
 
 مديرو الموارد البشرية والمرافق: احجزوا زيارة ميدانية وسنتجول معكم في المكتب.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -128,7 +128,7 @@ Same technology across the range, from in-duct units to standalone room units. S
 
 احفظوا المنشور لمشاركته مع فريقكم 🔖
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -163,7 +163,7 @@ ductFIT Vent: معالجة الهواء مدمجة في مبناك.
 
 فرق المرافق والأنظمة الكهروميكانيكية: أرسلوا لنا مخطط مجاري الهواء وسنقترح الطراز المناسب.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -201,7 +201,7 @@ Book a home visit and we'll recommend a plan room by room.
 
 احجزوا زيارة منزلية لنقترح خطة لكل غرفة.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -237,7 +237,7 @@ Contact us for a technical presentation for your facilities team.
 
 تواصلوا معنا لتقديم عرض فني لفريق إدارة المرافق لديكم.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -270,7 +270,7 @@ Compact: 135 × 135 × 40 mm.
 
 حجمه صغير: ‏135 × 135 × 40 ملم.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -305,7 +305,7 @@ You can't see it, so the only way to know your levels is to measure. Save this f
 
 من مصادرها: الغبار والعواصف الرملية، وحركة المرور والبناء، والطبخ، والبخور والشموع.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -336,7 +336,7 @@ ductFIT Cloud: مصمم ليستقر داخل سقفك.
 
 مثالي للمكاتب المفتوحة وغرف الاجتماعات ومناطق الاستقبال.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -370,7 +370,7 @@ D المجلس
 
 أجيبوا في التعليقات 👇
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -405,7 +405,7 @@ Ideal for corporate offices, government buildings and multi-villa projects. Let'
 
 لنبدأ بزيارة ميدانية.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -438,7 +438,7 @@ Tag your colleague who always books the smallest meeting room 👇
 
 يعرض KleanSense مستوى ثاني أكسيد الكربون مباشرة، ليتخذ فريق المرافق قراراته بناءً على البيانات.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -469,7 +469,7 @@ ductFIT Mobile: حل مستقل دون أي تركيب.
 
 راسلونا لمعرفة التوفر.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -500,7 +500,7 @@ Ask us about the right setup for your majlis.
 
 اسألونا عن الحل الأنسب لمجلسكم.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -531,7 +531,7 @@ The good news: you can measure it and improve it. Start with a conversation with
 
 الخبر الجيد: يمكن قياسه وتحسينه.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -570,7 +570,7 @@ If you answered 'not sure' to two or more, let's talk. We can start with monitor
 
 إذا كانت إجابتكم «لست متأكداً» عن سؤالين أو أكثر، فلنتحدث.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -601,7 +601,7 @@ ductFIT Wall: يُثبّت على الجدار بأناقة.
 
 مناسب لغرف النوم والمكاتب المنزلية وغرف العيادات والمكاتب الخاصة.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -635,7 +635,7 @@ That 'new office smell' after a fit-out? A TVOC reading tells you more. KleanSen
 
 رائحة «المكتب الجديد» بعد التجهيز؟ قراءة TVOC تخبرك بالمزيد، وKleanSense يقيسها مباشرة.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -666,7 +666,7 @@ We welcome enquiries from public-sector facility and procurement teams.
 
 نرحب باستفسارات فرق المرافق والمشتريات في القطاع الحكومي.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -695,7 +695,7 @@ That's why we always start with measurement. Share this with someone who needs t
 
 لذلك نبدأ دائماً بالقياس. شاركوا المنشور مع من يحتاج إليه 🔁
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -726,7 +726,7 @@ ductFIT Ceiling: تنقية فوق الأنظار.
 
 مثالي للمكاتب وقاعات الانتظار والفصول والمساحات المشتركة.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -757,7 +757,7 @@ Book a villa air check with our team.
 
 احجزوا فحصاً لهواء فيلتكم.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -798,7 +798,7 @@ Still unsure? Send us a photo of your space and we'll recommend one.
 
 غير متأكد؟ أرسل لنا صورة لمساحتك وسنقترح الأنسب.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -831,7 +831,7 @@ Fit-out contractors and interior designers: let's partner.
 
 يقيس KleanSense الفورمالديهايد والمركبات العضوية المتطايرة. شركات التجهيز ومصممو الديكور: لنتعاون معاً.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -860,7 +860,7 @@ Pair it with ductFIT purification and you can show what changed after installati
 
 مع KleanSense يحصل فريقكم على قراءات مباشرة وتاريخية في لوحة واحدة، جاهزة لبرامج العافية وتقارير الاستدامة والتواصل مع المستأجرين. ومع تنقية ductFIT يمكنكم توضيح ما تغيّر بعد التركيب.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -891,7 +891,7 @@ ductFIT S: هواء أنقى أينما ذهبت.
 
 وهدية مؤسسية مميزة 🎁 اسألونا عن الطلبات بالجملة.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -922,7 +922,7 @@ ductFIT M: مصمم للرحلات المشتركة.
 
 هيئات النقل ومشغلو الأساطيل: تواصلوا معنا لمناقشة مواصفات مركباتكم.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -959,7 +959,7 @@ Comment AIR or send us a DM and our team will reach out.
 
 اكتبوا «AIR» في التعليقات أو راسلونا وسيتواصل معكم فريقنا.
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
 
@@ -996,6 +996,6 @@ Thank you for following our 30-day series. Which post was most useful? Tell us b
 
 شكراً لمتابعتكم سلسلة الثلاثين يوماً. أي منشور كان الأكثر فائدة لكم؟
 
-📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
+📩 راسلونا أو تواصلوا عبر واتساب ⁦+971 50 116 9833⁩ أو البريد info@cleanairme.com
 🌐 www.cleanairme.com
 ```
