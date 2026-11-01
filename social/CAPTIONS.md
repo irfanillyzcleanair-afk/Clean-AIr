@@ -19,6 +19,19 @@ Over the next 30 days we'll show you what's in indoor air, how to measure it, an
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #ductFIT #KleanSense #PhotocatalyticOxidation #AirPurifierDubai #CleanAirSolutions
 ```
 
+**Arabic caption (العربية):**
+
+```text
+الهواء داخل مبناك هو الهواء الذي يتنفسه فريقك وعائلتك وزوارك طوال اليوم.
+
+تقدّم Clean Air في دبي والإمارات مجموعة ductFIT لتنقية الهواء وأجهزة KleanSense لمراقبة جودة الهواء الداخلي، من وحدات مدمجة في أنظمة التكييف للمباني الكبيرة إلى وحدات أنيقة للفلل.
+
+تابعونا خلال الثلاثين يوماً القادمة لتتعرفوا على ما يحتويه الهواء الداخلي وكيف تختارون الحل المناسب لمساحتكم 👇
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
+```
+
 ---
 
 ## Day 02 · Tue 03 Nov · Education · All
@@ -35,6 +48,17 @@ Question for you: when did you last check the air quality in your office or home
 🌐 www.cleanairme.com
 
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #IAQ #PM25 #AirQualityMatters #HealthyHome #KnowYourAir
+```
+
+**Arabic caption (العربية):**
+
+```text
+نقضي نحو 90% من وقتنا في الأماكن المغلقة، وفقاً لوكالة حماية البيئة الأمريكية (EPA). وفي الإمارات، مع الصيف الطويل والتكييف الذي يعمل على مدار الساعة، قد تبدو النسبة أعلى.
+
+متى كانت آخر مرة قستم فيها جودة الهواء في مكتبكم أو منزلكم؟ شاركونا في التعليقات 👇
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
 ```
 
 ---
@@ -58,6 +82,21 @@ HR and facility managers: book a site consultation and we'll walk your floor wit
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #DubaiOffices #FacilityManagement #WorkplaceWellbeing #HealthyBuildings #DubaiBusiness
 ```
 
+**Arabic caption (العربية):**
+
+```text
+للمكاتب: موظفوك المميزون يستحقون أفضل هواء.
+
+✅ ductFIT Cloud: يُركّب ضمن بلاطات السقف المعلّق
+✅ ductFIT Vent: تنقية داخل مجاري التكييف
+✅ KleanSense: قراءات مباشرة لفريق إدارة المرافق
+
+مديرو الموارد البشرية والمرافق: احجزوا زيارة ميدانية وسنتجول معكم في المكتب.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
+```
+
 ---
 
 ## Day 04 · Thu 05 Nov · Technology · All
@@ -78,6 +117,21 @@ Same technology across the range, from in-duct units to standalone room units. S
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #ductFIT #KleanSense #PhotocatalyticOxidation #AirPurifierDubai #CleanAirSolutions
 ```
 
+**Arabic caption (العربية):**
+
+```text
+كيف يعمل ductFIT؟ بتقنية الأكسدة الضوئية التحفيزية (PCO):
+
+1️⃣ يمر الهواء المحمّل بالأكسجين وبخار الماء عبر الوحدة
+2️⃣ تنشّط الأشعة فوق البنفسجية سطحاً محفّزاً
+3️⃣ ينتج التفاعل مستويات منخفضة من جزيئات نشطة تعمل على ملوثات محددة أثناء التشغيل
+
+احفظوا المنشور لمشاركته مع فريقكم 🔖
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
+```
+
 ---
 
 ## Day 05 · Fri 06 Nov · Product · Offices · Government
@@ -96,6 +150,21 @@ Facility & MEP teams: send us your duct layout and we'll recommend the right mod
 🌐 www.cleanairme.com
 
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #ductFIT #KleanSense #PhotocatalyticOxidation #AirPurifierDubai #CleanAirSolutions #HVAC #MEP
+```
+
+**Arabic caption (العربية):**
+
+```text
+ductFIT Vent: معالجة الهواء مدمجة في مبناك.
+
+يُركّب داخل مجاري التكييف ويستفيد من تدفق الهواء الحالي، دون أجهزة إضافية على الأرض. مناسب للأبراج المكتبية والمباني الحكومية والفنادق والمراكز التجارية.
+
+الطراز المرجعي Vent 100: ‏29 × 18 × 31 سم، بقدرة قصوى 30 واط، مع مؤشر لمراقبة مصباح الأشعة فوق البنفسجية.
+
+فرق المرافق والأنظمة الكهروميكانيكية: أرسلوا لنا مخطط مجاري الهواء وسنقترح الطراز المناسب.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
 ```
 
 ---
@@ -120,6 +189,22 @@ Book a home visit and we'll recommend a plan room by room.
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #DubaiVillas #LuxuryHomesDubai #DubaiHomes #VillaLife #InteriorDubai
 ```
 
+**Arabic caption (العربية):**
+
+```text
+للفلل: فيلتك مصممة بعناية… فماذا عن الهواء؟
+
+✨ ductFIT Lampshade: يندمج مع الديكور
+✨ ductFIT Wall وCeiling: للغرف دون مجاري تكييف
+✨ ductFIT Mobile: جاهز للتشغيل فوراً
+✨ KleanSense: تابع جودة هواء منزلك مباشرة
+
+احجزوا زيارة منزلية لنقترح خطة لكل غرفة.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
+```
+
 ---
 
 ## Day 07 · Sun 08 Nov · Audience · Government
@@ -141,6 +226,21 @@ Contact us for a technical presentation for your facilities team.
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #SmartDubai #PublicSector #UAEGovernment #SustainableUAE #FacilityManagementUAE
 ```
 
+**Arabic caption (العربية):**
+
+```text
+للجهات الحكومية والمباني العامة: مساحات مشتركة، وهواء مشترك، ومسؤولية مشتركة.
+
+🔹 التحليل: فهم المبنى ومعدلات الإشغال ونظام التكييف
+🔹 التخطيط: خطة لجودة الهواء الداخلي تشمل التنقية والمراقبة
+🔹 التنفيذ: التركيب وإتاحة البيانات والمراجعة بعد التركيب
+
+تواصلوا معنا لتقديم عرض فني لفريق إدارة المرافق لديكم.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
+```
+
 ---
 
 ## Day 08 · Mon 09 Nov · Product · All
@@ -159,6 +259,19 @@ Compact: 135 × 135 × 40 mm.
 🌐 www.cleanairme.com
 
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #ductFIT #KleanSense #PhotocatalyticOxidation #AirPurifierDubai #CleanAirSolutions #SmartBuilding
+```
+
+**Arabic caption (العربية):**
+
+```text
+لا يمكنك إدارة ما لا تقيسه.
+
+يقيس KleanSense ثماني قراءات: PM2.5، والمركبات العضوية المتطايرة (TVOC)، وثاني أكسيد الكربون، وأول أكسيد الكربون، والأوزون، والفورمالديهايد، ودرجة الحرارة، والرطوبة، ويعرضها مباشرة مع السجل التاريخي في لوحة تحكم مركزية عبر Wi-Fi.
+
+حجمه صغير: ‏135 × 135 × 40 ملم.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
 ```
 
 ---
@@ -183,6 +296,19 @@ You can't see it, so the only way to know your levels is to measure. Save this f
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #IAQ #PM25 #AirQualityMatters #HealthyHome #KnowYourAir
 ```
 
+**Arabic caption (العربية):**
+
+```text
+ما هي جسيمات PM2.5؟
+
+جسيمات دقيقة قطرها 2.5 ميكرومتر أو أقل، أي أرفع من شعرة الإنسان بنحو 30 مرة. لا تُرى بالعين، لذلك القياس هو الطريقة الوحيدة لمعرفة مستوياتها.
+
+من مصادرها: الغبار والعواصف الرملية، وحركة المرور والبناء، والطبخ، والبخور والشموع.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
+```
+
 ---
 
 ## Day 10 · Wed 11 Nov · Product · Offices
@@ -201,6 +327,19 @@ Perfect for open-plan floors, meeting rooms and reception areas. Ask us how many
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #ductFIT #KleanSense #PhotocatalyticOxidation #AirPurifierDubai #CleanAirSolutions #DubaiOffices #FacilityManagement #WorkplaceWellbeing #HealthyBuildings #DubaiBusiness
 ```
 
+**Arabic caption (العربية):**
+
+```text
+ductFIT Cloud: مصمم ليستقر داخل سقفك.
+
+يُركّب في بلاطات السقف المعلّق القياسية، ويعمل باستقلالية عن مجاري التكييف بمروحة مدمجة، ويترك المكاتب والأرضيات خالية تماماً.
+
+مثالي للمكاتب المفتوحة وغرف الاجتماعات ومناطق الاستقبال.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
+```
+
 ---
 
 ## Day 11 · Thu 12 Nov · Engagement · All
@@ -217,6 +356,22 @@ We'll share tips for the most-voted room later this month.
 🌐 www.cleanairme.com
 
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #DubaiLife #UAELife
+```
+
+**Arabic caption (العربية):**
+
+```text
+سؤال سريع: أي غرفة تحتاج إلى هواء أنقى أولاً؟
+
+A غرف الاجتماعات
+B الاستقبال وقاعات الانتظار
+C غرف النوم
+D المجلس
+
+أجيبوا في التعليقات 👇
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
 ```
 
 ---
@@ -239,6 +394,21 @@ Ideal for corporate offices, government buildings and multi-villa projects. Let'
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #DubaiOffices #FacilityManagement #WorkplaceWellbeing #HealthyBuildings #DubaiBusiness #SmartDubai #PublicSector #UAEGovernment #SustainableUAE #FacilityManagementUAE
 ```
 
+**Arabic caption (العربية):**
+
+```text
+منهجيتنا: تحليل، تخطيط، تنفيذ.
+
+🔍 نحلل مساحتكم ونظام التكييف، مع قياسات أولية أو اختبار مستقل لجودة الهواء عند الحاجة
+📐 نضع خطة مخصصة لجودة الهواء الداخلي
+🛠 ننفذ التركيب والإعداد ونراجع النتائج بعد التركيب
+
+لنبدأ بزيارة ميدانية.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
+```
+
 ---
 
 ## Day 13 · Sat 14 Nov · Education · Offices
@@ -259,6 +429,19 @@ Tag your colleague who always books the smallest meeting room 👇
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #DubaiOffices #FacilityManagement #WorkplaceWellbeing #HealthyBuildings #DubaiBusiness #IAQ #PM25 #AirQualityMatters #HealthyHome #KnowYourAir
 ```
 
+**Arabic caption (العربية):**
+
+```text
+تشعر بالنعاس في اجتماع الساعة الثالثة؟ 😅
+
+عندما تمتلئ غرفة الاجتماعات ويُغلق الباب، يتراكم ثاني أكسيد الكربون الناتج عن التنفس، وقراءته مؤشر جيد على كفاية التهوية لعدد الحاضرين.
+
+يعرض KleanSense مستوى ثاني أكسيد الكربون مباشرة، ليتخذ فريق المرافق قراراته بناءً على البيانات.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
+```
+
 ---
 
 ## Day 14 · Sun 15 Nov · Product · Villas · Offices
@@ -275,6 +458,19 @@ Move it where you need it. DM us for availability.
 🌐 www.cleanairme.com
 
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #ductFIT #KleanSense #PhotocatalyticOxidation #AirPurifierDubai #CleanAirSolutions #AirPurifier
+```
+
+**Arabic caption (العربية):**
+
+```text
+ductFIT Mobile: حل مستقل دون أي تركيب.
+
+وحدة قائمة بذاتها بمروحة مدمجة، تنقلها إلى أي غرفة: مكتب خاص، غرفة نوم، عيادة، أو جناح ضيوف في الفيلا.
+
+راسلونا لمعرفة التوفر.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
 ```
 
 ---
@@ -295,6 +491,19 @@ Ask us about the right setup for your majlis.
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #DubaiVillas #LuxuryHomesDubai #DubaiHomes #VillaLife #InteriorDubai #Majlis #EmiratiHospitality
 ```
 
+**Arabic caption (العربية):**
+
+```text
+الضيوف يلاحظون الهواء قبل أن يلاحظوا الديكور.
+
+الضيافة جزء من ثقافتنا، والمجلس هو المكان الذي تظهر فيه. ومع البخور والطعام والتجمعات، يحتاج هواء المجلس إلى عناية خاصة. وحدة ductFIT بتصميم المصباح تندمج مع الديكور وتعمل بهدوء.
+
+اسألونا عن الحل الأنسب لمجلسكم.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
+```
+
 ---
 
 ## Day 16 · Tue 17 Nov · Education · All
@@ -311,6 +520,19 @@ The good news: you can measure it and improve it. Start with a conversation with
 🌐 www.cleanairme.com
 
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #IAQ #PM25 #AirQualityMatters #HealthyHome #KnowYourAir #UAESummer
+```
+
+**Arabic caption (العربية):**
+
+```text
+التكييف يعمل على مدار الساعة والنوافذ مغلقة.
+
+الصيف الحار والغبار والمباني المغلقة تجعل معظم حياتنا في الإمارات داخل المباني. الهواء المُعاد تدويره فعّال للتبريد، لكن جودته تعتمد على ما في المبنى وكيفية معالجته.
+
+الخبر الجيد: يمكن قياسه وتحسينه.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
 ```
 
 ---
@@ -335,6 +557,23 @@ If you answered 'not sure' to two or more, let's talk. We can start with monitor
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #DubaiOffices #FacilityManagement #WorkplaceWellbeing #HealthyBuildings #DubaiBusiness #SmartDubai #PublicSector #UAEGovernment #SustainableUAE #FacilityManagementUAE
 ```
 
+**Arabic caption (العربية):**
+
+```text
+لمديري المرافق: 5 أسئلة عن هواء مبناكم 🔖
+
+1. هل نعرف مستويات PM2.5 وثاني أكسيد الكربون والمركبات العضوية المتطايرة؟
+2. ما الغرف الأكثر إشغالاً ولأطول وقت؟
+3. هل يعالج نظام التكييف الهواء أم يبرّده فقط؟
+4. هل لدينا بيانات لتقارير العافية والاستدامة (ESG)؟
+5. متى راجعنا القراءات آخر مرة بعد أعمال التجهيز أو التجديد؟
+
+إذا كانت إجابتكم «لست متأكداً» عن سؤالين أو أكثر، فلنتحدث.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
+```
+
 ---
 
 ## Day 18 · Thu 19 Nov · Product · Villas · Offices
@@ -351,6 +590,19 @@ Great for bedrooms, home offices, clinic rooms and private offices.
 🌐 www.cleanairme.com
 
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #ductFIT #KleanSense #PhotocatalyticOxidation #AirPurifierDubai #CleanAirSolutions
+```
+
+**Arabic caption (العربية):**
+
+```text
+ductFIT Wall: يُثبّت على الجدار بأناقة.
+
+يعمل باستقلالية عن مجاري التكييف، بمروحة مدمجة لتدوير الهواء، ويترك الأرضية خالية.
+
+مناسب لغرف النوم والمكاتب المنزلية وغرف العيادات والمكاتب الخاصة.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
 ```
 
 ---
@@ -374,6 +626,19 @@ That 'new office smell' after a fit-out? A TVOC reading tells you more. KleanSen
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #IAQ #PM25 #AirQualityMatters #HealthyHome #KnowYourAir
 ```
 
+**Arabic caption (العربية):**
+
+```text
+ما هي المركبات العضوية المتطايرة (TVOC)؟
+
+قراءة مجمّعة للغازات المنبعثة من مواد ومنتجات يومية، مثل الأثاث الجديد والسجاد والطلاء، ومنظفات الرذاذ ومعطرات الجو، والطابعات والمواد اللاصقة.
+
+رائحة «المكتب الجديد» بعد التجهيز؟ قراءة TVOC تخبرك بالمزيد، وKleanSense يقيسها مباشرة.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
+```
+
 ---
 
 ## Day 20 · Sat 21 Nov · Audience · Government
@@ -392,6 +657,19 @@ We welcome enquiries from public-sector facility and procurement teams.
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #SmartDubai #PublicSector #UAEGovernment #SustainableUAE #FacilityManagementUAE
 ```
 
+**Arabic caption (العربية):**
+
+```text
+مراكز خدمة المتعاملين: مئات الزوار يومياً، وهواء مشترك واحد.
+
+وحدات ductFIT Ceiling تعالج الهواء حيث ينتظر الناس، وKleanSense يمنح الفرق بيانات مباشرة عن ثاني أكسيد الكربون والجسيمات وغيرها، لقرارات مبنية على البيانات.
+
+نرحب باستفسارات فرق المرافق والمشتريات في القطاع الحكومي.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
+```
+
 ---
 
 ## Day 21 · Sun 22 Nov · Education · All
@@ -407,6 +685,18 @@ That's why we always start with measurement. Share this with someone who needs t
 🌐 www.cleanairme.com
 
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #IAQ #PM25 #AirQualityMatters #HealthyHome #KnowYourAir
+```
+
+**Arabic caption (العربية):**
+
+```text
+❌ خرافة: إذا بدا الهواء نظيفاً فهو نظيف.
+✅ حقيقة: كثير من الملوثات الداخلية، مثل الجسيمات الدقيقة وثاني أكسيد الكربون والمركبات العضوية المتطايرة والفورمالديهايد، لا تُرى وغالباً بلا رائحة.
+
+لذلك نبدأ دائماً بالقياس. شاركوا المنشور مع من يحتاج إليه 🔁
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
 ```
 
 ---
@@ -427,6 +717,19 @@ Ideal for offices, waiting areas, classrooms and shared spaces.
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #ductFIT #KleanSense #PhotocatalyticOxidation #AirPurifierDubai #CleanAirSolutions
 ```
 
+**Arabic caption (العربية):**
+
+```text
+ductFIT Ceiling: تنقية فوق الأنظار.
+
+مصمم للمساحات التي لا تحتوي على مجاري تكييف، مع خيارات تركيب في السقف أو على الجدار. يقيّم فريقنا الغرفة ويقترح الترتيب المناسب.
+
+مثالي للمكاتب وقاعات الانتظار والفصول والمساحات المشتركة.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
+```
+
 ---
 
 ## Day 23 · Tue 24 Nov · Audience · Villas
@@ -443,6 +746,19 @@ Book a villa air check with our team.
 🌐 www.cleanairme.com
 
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #DubaiVillas #LuxuryHomesDubai #DubaiHomes #VillaLife #InteriorDubai #HealthyHome
+```
+
+**Arabic caption (العربية):**
+
+```text
+الغرفة التي تقضي فيها عائلتك 8 ساعات كل ليلة.
+
+نقضي نحو ثلث حياتنا نائمين، غالباً في غرفة مغلقة والتكييف يعمل. اجعلوا هذه الغرفة أولوية: قيسوا هواءها بجهاز KleanSense وأضيفوا وحدة ductFIT Mobile أو Wall للتنقية.
+
+احجزوا فحصاً لهواء فيلتكم.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
 ```
 
 ---
@@ -468,6 +784,24 @@ Still unsure? Send us a photo of your space and we'll recommend one.
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #ductFIT #KleanSense #PhotocatalyticOxidation #AirPurifierDubai #CleanAirSolutions
 ```
 
+**Arabic caption (العربية):**
+
+```text
+أي ductFIT يناسب مساحتك؟
+
+🏢 مبنى بمجاري تكييف ← ductFIT Vent
+🧩 مكتب بسقف معلّق ← ductFIT Cloud
+🏠 غرفة دون مجاري ← ductFIT Wall أو Ceiling أو Mobile
+🚗 سيارة أو مساحة شخصية ← ductFIT S
+🚌 حافلات ومترو وقطارات ← ductFIT M
+📊 لقياس كل شيء ← KleanSense
+
+غير متأكد؟ أرسل لنا صورة لمساحتك وسنقترح الأنسب.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
+```
+
 ---
 
 ## Day 25 · Thu 26 Nov · Education · Offices
@@ -488,6 +822,19 @@ Fit-out contractors and interior designers: let's partner.
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #DubaiOffices #FacilityManagement #WorkplaceWellbeing #HealthyBuildings #DubaiBusiness #FitOut #InteriorDesignDubai
 ```
 
+**Arabic caption (العربية):**
+
+```text
+انتهيتم للتو من تجهيز المكتب؟ 🎉
+
+الأثاث والطلاء والمواد اللاصقة الجديدة قد تطلق الفورمالديهايد والمركبات العضوية المتطايرة. قيسوا القراءات قبل انتقال فريقكم.
+
+يقيس KleanSense الفورمالديهايد والمركبات العضوية المتطايرة. شركات التجهيز ومصممو الديكور: لنتعاون معاً.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
+```
+
 ---
 
 ## Day 26 · Fri 27 Nov · Audience · Offices · Government
@@ -504,6 +851,17 @@ Pair it with ductFIT purification and you can show what changed after installati
 🌐 www.cleanairme.com
 
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #DubaiOffices #FacilityManagement #WorkplaceWellbeing #HealthyBuildings #DubaiBusiness #ESG #Sustainability #WELLBuilding
+```
+
+**Arabic caption (العربية):**
+
+```text
+المباني الصحية تُبنى على البيانات.
+
+مع KleanSense يحصل فريقكم على قراءات مباشرة وتاريخية في لوحة واحدة، جاهزة لبرامج العافية وتقارير الاستدامة والتواصل مع المستأجرين. ومع تنقية ductFIT يمكنكم توضيح ما تغيّر بعد التركيب.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
 ```
 
 ---
@@ -524,6 +882,19 @@ A thoughtful corporate gift too 🎁 Ask us about bulk orders.
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #ductFIT #KleanSense #PhotocatalyticOxidation #AirPurifierDubai #CleanAirSolutions #CarAccessories #DubaiDrive
 ```
 
+**Arabic caption (العربية):**
+
+```text
+ductFIT S: هواء أنقى أينما ذهبت.
+
+جهاز صغير ومحمول للسيارات والمساحات الشخصية، مثالي للتنفيذيين وأساطيل السائقين ونقل كبار الشخصيات وسيارات الفنادق.
+
+وهدية مؤسسية مميزة 🎁 اسألونا عن الطلبات بالجملة.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
+```
+
 ---
 
 ## Day 28 · Sun 29 Nov · Product · Government · Transport
@@ -540,6 +911,19 @@ Transport authorities and fleet operators: contact us to discuss your vehicle sp
 🌐 www.cleanairme.com
 
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #SmartDubai #PublicSector #UAEGovernment #SustainableUAE #FacilityManagementUAE #PublicTransport #Mobility
+```
+
+**Arabic caption (العربية):**
+
+```text
+ductFIT M: مصمم للرحلات المشتركة.
+
+وحدة شبه مخصصة تُركّب في فتحات التكييف الحالية في الحافلات والمترو والقطارات.
+
+هيئات النقل ومشغلو الأساطيل: تواصلوا معنا لمناقشة مواصفات مركباتكم.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
 ```
 
 ---
@@ -563,6 +947,22 @@ Comment AIR or send us a DM and our team will reach out.
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #DubaiOffices #FacilityManagement #WorkplaceWellbeing #HealthyBuildings #DubaiBusiness #DubaiVillas #LuxuryHomesDubai #DubaiHomes #VillaLife #InteriorDubai
 ```
 
+**Arabic caption (العربية):**
+
+```text
+لنتعرّف على هواء مبناكم.
+
+احجزوا استشارة مع Clean Air وسنقوم بـ:
+✔ زيارة مكتبكم أو فيلتكم أو منشأتكم
+✔ اقتراح وحدات ductFIT ومراقبة KleanSense المناسبة
+✔ إعداد عرض سعر واضح
+
+اكتبوا «AIR» في التعليقات أو راسلونا وسيتواصل معكم فريقنا.
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
+```
+
 ---
 
 ## Day 30 · Tue 01 Dec · Brand · All
@@ -581,4 +981,21 @@ Thank you for following our 30-day series. Which post was most useful? Tell us b
 🌐 www.cleanairme.com
 
 #CleanAirUAE #IndoorAirQuality #AirPurification #Dubai #UAE #ductFIT #KleanSense #PhotocatalyticOxidation #AirPurifierDubai #CleanAirSolutions
+```
+
+**Arabic caption (العربية):**
+
+```text
+قِس. نقِّ. راجِع.
+
+من غرفة نوم في فيلا إلى مبنى حكومي كامل: شريك واحد لجودة الهواء الداخلي.
+
+📊 القياس مع KleanSense
+🌀 التنقية مع مجموعة ductFIT
+🔁 مراجعة النتائج مع فريقكم
+
+شكراً لمتابعتكم سلسلة الثلاثين يوماً. أي منشور كان الأكثر فائدة لكم؟
+
+📩 راسلونا أو تواصلوا عبر واتساب ‎+971 50 116 9833‏ أو البريد info@cleanairme.com
+🌐 www.cleanairme.com
 ```

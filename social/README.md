@@ -5,10 +5,13 @@ Instagram: [@cleanairme_](https://www.instagram.com/cleanairme_/)
 | Path | What it is |
 | --- | --- |
 | `posts/` | 30 finished Instagram posts, 1080 × 1350 (4:5 portrait), JPG |
-| `CAPTIONS.md` | Copy-paste captions with call to action and hashtags, one per day |
+| `stories/` | The same 30 posts in Instagram Story size, 1080 × 1920 |
+| `CAPTIONS.md` | Copy-paste captions with call to action and hashtags, in English and Arabic |
+| `LINKEDIN.md` | 30 LinkedIn posts for the company page, written for decision makers |
+| `REELS.md` | 10 short video scripts to film on a phone, with a weekly schedule |
 | `calendar.csv` | The same plan as a spreadsheet (open in Excel / Google Sheets) |
 | `MARKETING_PLAN.md` | How to reach offices, villas and government, with ads, LinkedIn and tenders |
-| `posts.py` | Source text for every post: edit here, then re-render |
+| `posts.py`, `captions_ar.py`, `linkedin.py` | Source text (English, Arabic, LinkedIn): edit here, then re-render / re-export |
 | `render.py`, `shot.cjs` | Re-render the designs (`python3 social/render.py`, needs Node + Playwright) |
 | `export.py` | Rebuild `CAPTIONS.md` and `calendar.csv` (`python3 social/export.py 2026-11-02`) |
 | `publish_instagram.py` | Posts one day's image and caption through the Instagram Graph API |
@@ -19,7 +22,7 @@ Open `CAPTIONS.md`, save the day's image from `posts/` to your phone, and paste 
 
 ## Automatic daily posting
 
-The workflow `.github/workflows/instagram-daily.yml` posts one image a day at 10:47 Dubai time.
+The workflow `.github/workflows/instagram-daily.yml` posts one image a day at 10:47 Dubai time, with an English + Arabic caption, and posts the matching Story right after.
 It does nothing until you complete these steps:
 
 1. **Instagram account:** switch the company Instagram to a *Professional → Business* account and link it to a Facebook Page.
@@ -28,6 +31,8 @@ It does nothing until you complete these steps:
    - Secret `IG_USER_ID` = the Instagram user ID
    - Secret `IG_ACCESS_TOKEN` = the long-lived token
    - Variable `IG_START_DATE` = the date of Day 1, e.g. `2026-11-03`
+   - Optional variable `CAPTION_LANG` = `both` (default, English then Arabic), `en` or `ar`
+   - Optional variable `IG_POST_STORY` = `0` to stop posting the matching Story each day (default `1`)
    - Variable `GRAPH_HOST` = `graph.instagram.com` only if you created the token with *Instagram Login*; leave it unset for Facebook Login.
 4. **Merge this branch into `main`.** GitHub runs scheduled workflows only from the default branch.
 5. **Test first:** Actions → *Instagram daily post* → *Run workflow*, day `1`, dry run ticked. Check the log, then run again with dry run unticked to publish Day 1 manually.
