@@ -1,5 +1,7 @@
 # CleanAir social media kit
 
+Instagram: [@cleanairme_](https://www.instagram.com/cleanairme_/)
+
 | Path | What it is |
 | --- | --- |
 | `posts/` | 30 finished Instagram posts, 1080 × 1350 (4:5 portrait), JPG |
