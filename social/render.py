@@ -1,4 +1,4 @@
-"""Render the 30 CleanAir Instagram posts (1080 x 1350, 4:5 portrait) to JPG.
+"""Render the 30 CleanAir Instagram posts (1080 x 1350, 4:5) and Story versions (1080 x 1920) to JPG.
 
 Usage:  python3 social/render.py            # renders every post
         python3 social/render.py 5 6        # renders only days 5 and 6
@@ -13,6 +13,8 @@ ROOT = Path(__file__).resolve().parent
 ASSETS = (ROOT.parent / "dist" / "assets").as_uri()
 OUT = ROOT / "posts"
 OUT.mkdir(exist_ok=True)
+STORIES = ROOT / "stories"
+STORIES.mkdir(exist_ok=True)
 
 IMG = {
     "ductfit-vent": "ductfit-vent.png", "ductfit-mobile": "ductfit-mobile.png",
@@ -267,19 +269,53 @@ def page(p):
 <body><div class="post {theme}">{fl}{top(p, dark)}{content}{foot()}</div></body></html>"""
 
 
+STORY_CSS = """
+:root{--ink:#00111d;--navy:#0b2c45;--deep:#00538a;--blue:#0592cc;--sky:#7bcee9}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1080px;height:1920px;overflow:hidden}
+body{font-family:Inter,sans-serif;-webkit-font-smoothing:antialiased;color:#fff;
+background:radial-gradient(1000px 800px at 90% 0%,#0a4a75 0%,rgba(10,74,117,0) 60%),radial-gradient(900px 700px at 0% 100%,#0a4a75 0%,rgba(10,74,117,0) 60%),linear-gradient(170deg,var(--navy),var(--ink))}
+.s{position:relative;width:1080px;height:1920px;display:flex;flex-direction:column;align-items:center;padding:230px 80px 0}
+.head{display:flex;justify-content:space-between;align-items:center;width:920px;margin-bottom:40px}
+.logo-pill{background:#fff;border-radius:999px;padding:6px 24px 6px 12px;display:flex}.logo-pill img{height:64px}
+.tag{font-size:24px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--sky)}
+.card{width:920px;height:1150px;border-radius:36px;overflow:hidden;box-shadow:0 40px 90px rgba(0,0,0,.45),0 0 0 2px rgba(123,206,233,.25)}
+.card img{width:100%;height:100%;display:block}
+.cta{margin-top:56px;display:flex;align-items:center;gap:18px;background:#fff;color:var(--deep);font:700 38px "Inter Display",Inter;padding:26px 40px;border-radius:999px}
+.cta svg{width:44px;height:44px;color:#25a244}
+.handle{margin-top:22px;font-size:28px;font-weight:600;color:#b7d3e4}
+.flow{position:absolute;inset:0;width:100%;height:100%;z-index:0}.s>*:not(.flow){position:relative;z-index:1}
+.card{flex:none}
+"""
+
+
+def story_page(p):
+    post = (OUT / f"day-{p['day']:02d}-{p['layout']}.jpg").as_uri()
+    return f"""<!doctype html><html><head><meta charset="utf-8"><style>{STORY_CSS}</style></head><body><div class="s">
+{flow(True, 1650)}
+<div class="head"><div class="logo-pill"><img src="{ASSETS}/cleanair-logo.png"></div><div class="tag">New post · Day {p['day']:02d}</div></div>
+<div class="card"><img src="{post}"></div>
+<div class="cta">{WA}WhatsApp {WHATSAPP}</div><div class="handle">@cleanairme_ · {WEBSITE}</div>
+</div></body></html>"""
+
+
 def main(days):
     html_dir = ROOT / ".build"
     html_dir.mkdir(exist_ok=True)
-    jobs = []
+    jobs, story_jobs = [], []
     for p in POSTS:
         if days and p["day"] not in days:
             continue
         f = html_dir / f"day-{p['day']:02d}.html"
         f.write_text(page(p), encoding="utf-8")
         jobs.append((str(f), str(OUT / f"day-{p['day']:02d}-{p['layout']}.jpg")))
+        fs = html_dir / f"story-{p['day']:02d}.html"
+        fs.write_text(story_page(p), encoding="utf-8")
+        story_jobs.append((str(fs), str(STORIES / f"story-{p['day']:02d}.jpg"), 1080, 1920))
     # screenshots are taken with Node Playwright (shot.cjs)
     import json, subprocess
     subprocess.run(["node", str(ROOT / "shot.cjs"), json.dumps(jobs)], check=True)
+    subprocess.run(["node", str(ROOT / "shot.cjs"), json.dumps(story_jobs)], check=True)  # stories embed the feed posts
 
 
 if __name__ == "__main__":

@@ -1,6 +1,6 @@
 name: Instagram daily post
 
-# Posts one image from social/posts/ each day at 10:47 Dubai time (06:47 UTC).
+# Posts one image from social/posts/ (plus its Story from social/stories/) each day at 10:47 Dubai time (06:47 UTC).
 # Does nothing until the repository has the IG_USER_ID and IG_ACCESS_TOKEN secrets
 # and the IG_START_DATE variable. See social/README.md.
 on:
@@ -27,6 +27,8 @@ jobs:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_START_DATE: ${{ vars.IG_START_DATE }}
           GRAPH_HOST: ${{ vars.GRAPH_HOST || 'graph.facebook.com' }}
+          CAPTION_LANG: ${{ vars.CAPTION_LANG || 'both' }}
+          IG_POST_STORY: ${{ vars.IG_POST_STORY || '1' }}
           IG_DAY: ${{ github.event.inputs.day }}
           DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '0' }}
           IMAGE_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.sha }}/social/posts
