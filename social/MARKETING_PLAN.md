@@ -23,11 +23,13 @@ LinkedIn, direct outreach, WhatsApp and tenders, so this plan covers all of them
   3. "Unboxing" ductFIT Mobile in a villa bedroom
   4. 15-second explainer: "What is PM2.5?" with the post as the background
   5. Founder / engineer answering one customer question per week
-- **Profile setup:** switch to a Business account, category "Air purifier supplier" or "Business service", bio:
+- **Profile setup (@cleanairme_):** switch to a Business account, category "Air purifier supplier" or "Business service", bio:
   `Air purification & indoor air quality monitoring 🇦🇪 | Offices · Villas · Government | ductFIT & KleanSense | Book a site visit 👇`
   Add WhatsApp button, the website link, and Highlights: *Products · Offices · Villas · Government · How it works · Contact*.
 - **Engagement routine (20 minutes a day):** reply to every comment and DM within 1 hour; comment thoughtfully on posts from Dubai facility managers, interior designers, real-estate developers and FM companies.
 - **Keyword replies:** Day 29 asks people to comment "AIR". Reply to each with a DM and log them as leads.
+
+- **Use the Instagram QR code** (@cleanairme_) on business cards, quotations, email signatures, product boxes, exhibition stands and installation stickers so every customer you meet can follow you.
 
 ## 3. Paid Instagram / Facebook ads (Meta Ads Manager)
 
