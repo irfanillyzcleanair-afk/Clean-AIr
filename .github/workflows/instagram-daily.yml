@@ -1,0 +1,37 @@
+name: Instagram daily post
+
+# Posts one image from social/posts/ each day at 10:47 Dubai time (06:47 UTC).
+# Does nothing until the repository has the IG_USER_ID and IG_ACCESS_TOKEN secrets
+# and the IG_START_DATE variable. See social/README.md.
+on:
+  schedule:
+    - cron: "47 6 * * *"
+  workflow_dispatch:
+    inputs:
+      day:
+        description: "Post a specific day (1-30) now"
+        required: true
+      dry_run:
+        description: "Dry run only (print, do not post)"
+        type: boolean
+        default: true
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publish
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_START_DATE: ${{ vars.IG_START_DATE }}
+          GRAPH_HOST: ${{ vars.GRAPH_HOST || 'graph.facebook.com' }}
+          IG_DAY: ${{ github.event.inputs.day }}
+          DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '0' }}
+          IMAGE_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.sha }}/social/posts
+        run: |
+          if [ -z "$IG_ACCESS_TOKEN" ] && [ "$DRY_RUN" != "1" ]; then
+            echo "Instagram secrets are not configured yet; skipping."; exit 0
+          fi
+          python3 social/publish_instagram.py
